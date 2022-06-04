@@ -21,5 +21,5 @@ One last step and then todo App will be live.  On the terminal, type the followi
 $ python3 manage.py runserver   
 That was pretty simple,  Now all the api of the App live. we can start using our simple todo Apis. 
 
-Once the server is hosted, head over to http://127.0.0.1:8000/todos for the App.
+Once the server is hosted, head over to http://127.0.0.1:8000/ for the App.
 
